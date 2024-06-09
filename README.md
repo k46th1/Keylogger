@@ -1,4 +1,4 @@
-<h1 align="center">NetGian Keylogger</h1>
+<h1 align="center">Keylogger</h1>
 <h3 align="center">~ ~ Python keylogger that sends keystrokes throught a Discord Webhook ~ ~</h3>
 
 **Note:** \
@@ -25,5 +25,3 @@ python keylogger.py
 ## 🔍 〢 Tested on:
 - Windows 10
 
-## 📜 〢 License
-This project is distributed under [GNU General Public License v3.0](https://github.com/netgian/Keylogger/blob/main/LICENSE) license.
